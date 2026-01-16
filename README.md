@@ -92,3 +92,39 @@
 <p align="center">
   <strong>✨ Selamat menikmati pengalaman menonton drama tanpa ribet! ✨</strong>
 </p>
+
+<hr>
+
+<h2>ℹ️ <strong>LOG LAST UPDATE HERE!</strong></h2>
+<h2>🔄Update 1.1.0</h2>
+<h1>Apa yang baru?</h1>
+
+<p>
+  Update kali ini menawarkan pembaruan dengan design yang sedikit di perbarui, memperbaiki beberapa
+  bug issue serta improvement performance app selain itu ada penambahahan beberapa fitur baru yaitu :
+</p>
+
+<ul>
+  <li>📌 add api melolo </li>
+  <li>📌 add status api </li>
+  <li>📌 peningkatan UI/UX </li>
+  <li>📌 improvement performance </li>
+  <li>📌 add buton next & prev episode </li>
+  <li>📌 auto hide navbar system untuk meningkatkan kenyamanan visualisasi </li>
+  <li>📌 integrasi API baru dengan daftarku dan riwayat tonton </li>
+  <li>📌 add security patch 1.0.0 Beta and more </li>
+</ul>
+
+<h2>📱 Screenshot update 1.1.0 </h2>
+
+<p align="center">
+  <img src="docs/images/Update 1.1.0/Sidebar.jpg" width="30%">
+  <img src="docs/images/Update 1.1.0/Splash Screen melolo.jpg" width="30%">
+  <img src="docs/images/Update 1.1.0/page melolo.jpg" width="30%">
+  <img src="docs/images/Update 1.1.0/Drama info.jpg" width="30%">
+  <img src="docs/images/Update 1.1.0/Play Video.jpg" width="30%">
+  <img src="docs/images/Update 1.1.0/Profile.jpg" width="30%">
+  <img src="docs/images/Update 1.1.0/Riwayat.jpg" width="30%">
+  <img src="docs/images/Update 1.1.0/DaftarKu Update.jpg" width="30%">
+</p>
+
