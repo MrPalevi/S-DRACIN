@@ -118,13 +118,15 @@
 <h2>📱 Screenshot update 1.1.0 </h2>
 
 <p align="center">
-  <img src="docs/images/Update 1.1.0/Sidebar.jpg" width="30%">
-  <img src="docs/images/Update 1.1.0/Splash Screen melolo.jpg" width="30%">
-  <img src="docs/images/Update 1.1.0/page melolo.jpg" width="30%">
-  <img src="docs/images/Update 1.1.0/Drama info.jpg" width="30%">
-  <img src="docs/images/Update 1.1.0/Play Video.jpg" width="30%">
-  <img src="docs/images/Update 1.1.0/Profile.jpg" width="30%">
-  <img src="docs/images/Update 1.1.0/Riwayat.jpg" width="30%">
-  <img src="docs/images/Update 1.1.0/DaftarKu Update.jpg" width="30%">
+  <img src="docs/Update 1.1.0/splashmelolo.jpg" width="30%">
+  <img src="docs/Update 1.1.0/sidebar.jpg" width="30%">
+  <img src="docs/Update 1.1.0/home.jpg" width="30%">
+  <img src="docs/Update 1.1.0/homemelolo.jpg" width="30%">
+  <img src="docs/Update 1.1.0/homenew.jpg" width="30%">
+  <img src="docs/Update 1.1.0/dramadetail.jpg" width="30%">
+  <img src="docs/Update 1.1.0/Play Video.jpg" width="30%">
+  <img src="docs/Update 1.1.0/daftarku.jpg" width="30%">
+  <img src="docs/Update 1.1.0/profile.jpg" width="30%">
+  <img src="docs/Update 1.1.0/riwayatdrama.jpg" width="30%">
 </p>
 
